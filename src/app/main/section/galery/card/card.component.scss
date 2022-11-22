@@ -1,0 +1,19 @@
+.game {
+  max-width: 380px;
+  padding: 10px;
+
+  figcaption {
+      padding: 10px;
+      font-weight: 700;
+  }
+}
+
+.figure-img {
+  height: 200px;
+  overflow: hidden;
+  border-radius: 15px;
+
+  img {
+      width: 100%;
+  }
+}

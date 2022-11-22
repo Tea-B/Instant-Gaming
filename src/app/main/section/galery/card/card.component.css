@@ -1,0 +1,17 @@
+.game {
+  max-width: 380px;
+  padding: 10px;
+}
+.game figcaption {
+  padding: 10px;
+  font-weight: 700;
+}
+
+.figure-img {
+  height: 200px;
+  overflow: hidden;
+  border-radius: 15px;
+}
+.figure-img img {
+  width: 100%;
+}/*# sourceMappingURL=card.component.css.map */

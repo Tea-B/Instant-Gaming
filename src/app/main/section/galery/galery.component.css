@@ -1,0 +1,13 @@
+.galery {
+  width: 80%;
+  padding: 10px 10%;
+}
+.galery h1 {
+  padding: 30px 0px 10px 0px;
+}
+
+.flex {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+}/*# sourceMappingURL=galery.component.css.map */
